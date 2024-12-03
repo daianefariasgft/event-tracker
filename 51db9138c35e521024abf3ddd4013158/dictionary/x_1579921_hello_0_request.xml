@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="2ddb9138c35e521024abf3ddd4013162" extends="sn_creatorstudio_task" label="Hello World Request" max_length="40" name="x_1579921_hello_0_request" type="collection"/>
+</database>
